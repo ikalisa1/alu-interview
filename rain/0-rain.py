@@ -31,4 +31,3 @@ def rain(walls):
             water += min_boundary_height - current_height
 
     return water
-
